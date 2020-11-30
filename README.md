@@ -5,4 +5,6 @@ this is my solver for a sudoku puzzle N x N matrix
 
 i've done it take numbers n*n for the matrix as well.
 
+Thanks a lot to Urielfcampos for helping me!!!!
+
 ENJOY
